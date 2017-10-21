@@ -1,5 +1,5 @@
-#Holy Tower
-##Global Game Jam 2016
+# Holy Tower
+## Global Game Jam 2016
 
 The following project was made during the Global Game Jam of 2016 by [Jesse Deerenberg](https://www.linkedin.com/in/jesse-deerenberg-b324113b/) and [I](https://www.rondekker.nl).
 
